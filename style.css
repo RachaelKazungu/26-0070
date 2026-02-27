@@ -1,0 +1,5 @@
+/* style.css */
+h4, h5, h6 {
+    color: blue;
+	text-decoration: underline;
+}
